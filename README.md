@@ -1,1 +1,0 @@
-# redirect-www-for-x1.games
